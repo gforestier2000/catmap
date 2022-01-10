@@ -1,7 +1,7 @@
-.map{
+#map{
     border : 5px solid red;
 }
 
-.action{
+#action{
     border : 5px solid green;
 }
